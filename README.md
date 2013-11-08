@@ -3,4 +3,4 @@ blog
 
 myblog
 
-blog.fuweijun.com
+http://blog.fuweijun.com
